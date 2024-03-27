@@ -2,7 +2,7 @@
 A React app that track expense and income.
 
 # Live Demo
-https://6603dc798d264c72ebcd79f3--startling-blini-200240.netlify.app/
+https://startling-blini-200240.netlify.app/
 
 # Features
 This project uses CharkaUi to provide the CSS rather than use stylesheet. 
